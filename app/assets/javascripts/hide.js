@@ -1,5 +1,5 @@
 
 function hideWhenClicked(event) {
-  var a =  document.getElementById("hide_this")
-  a.style.visibility = "hidden"
+  var doc =  document.getElementById("hide_this")
+  doc.style.visibility = "hidden"
 }
